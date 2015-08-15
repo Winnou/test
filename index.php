@@ -1,3 +1,4 @@
 <?php
-echo testing git;
+echo testing git for the first time.;
+
 ?>
